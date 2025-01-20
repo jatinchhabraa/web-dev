@@ -45,6 +45,7 @@ if (checkBool) {
 // check if array is empty or not
 let items = [];
 if (items.length == 0) {
+  // array.length gives length of array
   console.log("array is empty");
 } else {
   console.log("not its not empty");

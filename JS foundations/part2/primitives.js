@@ -8,7 +8,7 @@ console.log(typeof anotherBalance); // object data type
 
 let isActive = true;
 
-console.log(typeof isActive); // bolean
+console.log(typeof isActive); // boolean
 
 // null and undefined
 
