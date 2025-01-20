@@ -1,4 +1,4 @@
-let balalnce = 120;
+let balalnce = 1200;
 
 console.log(typeof balalnce); // number data type
 
@@ -32,6 +32,7 @@ let demo = `value is ${2 ** 2}`;
 console.log(demo);
 
 // symbol guarantees to be uinique
+// will study about symbol sometime maybe
 
 let sm1 = Symbol();
 console.log(sm1);
